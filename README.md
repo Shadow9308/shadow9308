@@ -1,4 +1,4 @@
-[x.com/pestcontrol241](https://x.com/pestcontrol241/)
-<admin@thekittymafia.org>
+[x.com/shaun7231](https://x.com/shaun7231/)
+<admin@murder.rip>
 
 ## Projects:
