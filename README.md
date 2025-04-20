@@ -3,6 +3,8 @@
 
 ## Projects:
 - [cobweb.sh](https://cobweb.sh/)
+- [lo.cafe](https://lo.cafe/)
+
 
 ## Tech Stack:
 
