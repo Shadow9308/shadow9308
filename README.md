@@ -3,3 +3,6 @@
 
 ## Projects:
 - [cobweb.sh](https://cobweb.sh/)
+
+## Learning:
+- Next.js
