@@ -5,4 +5,6 @@
 - [cobweb.sh](https://cobweb.sh/)
 
 ## Learning:
-- Next.js
+- Next (JS)
+- React (JS)
+- SQL
