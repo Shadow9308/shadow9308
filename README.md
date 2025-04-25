@@ -3,7 +3,7 @@
 
 ## Projects:
 - [cobweb.sh](https://cobweb.sh/)
-- [student.store](https://student.store/)
+- [campus.store](https://campus.store/)
 
 
 ## Tech Stack:
