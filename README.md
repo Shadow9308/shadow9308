@@ -3,7 +3,7 @@
 
 ## Projects:
 - [cobweb.sh](https://cobweb.sh/)
-- [campus.store](https://campus.store/)
+- [studentmarket.gg](https://studentmarket.gg/)
 
 
 ## Tech Stack:
